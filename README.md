@@ -1,1 +1,1 @@
-Sample system
+Sample System
